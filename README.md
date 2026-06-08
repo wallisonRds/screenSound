@@ -56,11 +56,3 @@ dotnet run
 
 👤 Autor
 Desenvolvido com foco em engenharia e lógica de software por Wallison Vieira.
-
-Se quiser trocar ideias sobre análise de sistemas, lógica estruturada, ou banco de dados, sinta-se à vontade para se conectar:
-
-LinkedIn: wallisonvieira
-
-E-mail: wallisonn13@gmail.com
-
-GitHub: wallisonRds
