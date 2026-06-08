@@ -53,6 +53,3 @@ Rodar o sistema no terminal:
 
 Bash
 dotnet run
-
-👤 Autor
-Desenvolvido com foco em engenharia e lógica de software por Wallison Vieira.
